@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=VCC_IN Pin=C18-1
+Removed Pin From Net: NetName=VCC_IN Pin=C19-1
+Removed Pin From Net: NetName=VCC_IN Pin=C20-1
+Removed Pin From Net: NetName=VCC_IN Pin=L12-1
+Removed Pin From Net: NetName=VCC_IN Pin=U117_3.3-3
+Added Pin To Net: NetName=VDD_5V Pin=C18-1
+Added Pin To Net: NetName=VDD_5V Pin=C19-1
+Added Pin To Net: NetName=VDD_5V Pin=C20-1
+Added Pin To Net: NetName=VDD_5V Pin=L12-1
+Added Pin To Net: NetName=VDD_5V Pin=U117_3.3-3
+Added Room: Name=Power

@@ -1,0 +1,133 @@
+Removed Pin From Net: NetName=GND Pin=C4-1
+Removed Pin From Net: NetName=VCC3.3 Pin=C4-2
+Removed Pin From Net: NetName=GND Pin=C7-1
+Removed Pin From Net: NetName=VCC3.3 Pin=C7-2
+Removed Pin From Net: NetName=GND_D1 Pin=C37-1
+Removed Pin From Net: NetName=VDD33 Pin=C37-2
+Removed Pin From Net: NetName=VDD33 Pin=C45-1
+Removed Pin From Net: NetName=REF_SELECT Pin=C45-2
+Removed Pin From Net: NetName=VDD33 Pin=C47-2
+Removed Pin From Net: NetName=GND_D1 Pin=C48-1
+Removed Pin From Net: NetName=GND_D1 Pin=CT3-1
+Removed Pin From Net: NetName=NetCT3_2 Pin=CT3-2
+Removed Pin From Net: NetName=NetCT3_3 Pin=CT3-3
+Removed Pin From Net: NetName=NetCT3_4 Pin=CT3-4
+Removed Pin From Net: NetName=GND Pin=D3-1
+Removed Pin From Net: NetName=MOSI Pin=D3-2
+Removed Pin From Net: NetName=SPI1_SCK Pin=Designator4-clk
+Removed Pin From Net: NetName=AD_D10 Pin=Designator4-d10
+Removed Pin From Net: NetName=AD_D11 Pin=Designator4-d11
+Removed Pin From Net: NetName=AD_D12 Pin=Designator4-d12
+Removed Pin From Net: NetName=AD_D13 Pin=Designator4-d13
+Removed Pin From Net: NetName=AD_D14 Pin=Designator4-d14
+Removed Pin From Net: NetName=AD_D15 Pin=Designator4-d15
+Removed Pin From Net: NetName=SPI1_SO Pin=Designator4-mi
+Removed Pin From Net: NetName=MOSI Pin=Designator4-mo
+Removed Pin From Net: NetName=SPI1_NSS Pin=Designator4-tcs
+Removed Pin From Net: NetName=NetCT3_3 Pin=J20_2-1
+Removed Pin From Net: NetName=GND Pin=JP10-3
+Removed Pin From Net: NetName=+15V Pin=JP10-14
+Removed Pin From Net: NetName=VCC3.3 Pin=MCU-6
+Removed Pin From Net: NetName=AD_D15 Pin=P3-33
+Removed Pin From Net: NetName=REF_SELECT Pin=P3-34
+Removed Pin From Net: NetName=GND_D1 Pin=P3-35
+Removed Pin From Net: NetName=36J Pin=P3-36
+Removed Pin From Net: NetName=VCC Pin=P3-37
+Removed Pin From Net: NetName=VCC Pin=P3-38
+Removed Pin From Net: NetName=GND_D1 Pin=P3-40
+Removed Pin From Net: NetName=GND_D1 Pin=P3-41
+Removed Pin From Net: NetName=42J Pin=P3-42
+Removed Pin From Net: NetName=GND_D1 Pin=P3-43
+Removed Pin From Net: NetName=44J Pin=P3-44
+Removed Pin From Net: NetName=45J Pin=P3-45
+Removed Pin From Net: NetName=GND_D1 Pin=P3-46
+Removed Pin From Net: NetName=GND_D1 Pin=P3-47
+Removed Pin From Net: NetName=VCC Pin=P3-48
+Removed Pin From Net: NetName=VDD_D1 Pin=R12-1
+Removed Pin From Net: NetName=NetC13_1 Pin=R12-2
+Removed Pin From Net: NetName=NetCT3_2 Pin=R13-1
+Removed Pin From Net: NetName=IN_IB Pin=R13-2
+Removed Pin From Net: NetName=NetR18_1 Pin=R18-1
+Removed Pin From Net: NetName=SN_OE Pin=R18-2
+Removed Pin From Net: NetName=GND Pin=R28-1
+Removed Pin From Net: NetName=GND_D1 Pin=R28-2
+Removed Pin From Net: NetName=GND_D1 Pin=R29-1
+Removed Pin From Net: NetName=IN_IA1 Pin=R56-1
+Removed Pin From Net: NetName=IN_IA Pin=R56-2
+Removed Pin From Net: NetName=IN_IA1 Pin=R57-2
+Change Component Footprint: Designator=C1 Old Footprint=0603P New Footprint=0805
+Change Component Footprint: Designator=C2 Old Footprint=0603P New Footprint=0805
+Change Component Footprint: Designator=C3 Old Footprint=0603P New Footprint=0805
+Change Component Footprint: Designator=C5 Old Footprint=0603P New Footprint=0805
+Change Component Footprint: Designator=C6 Old Footprint=0603P New Footprint=0805
+Change Component Footprint: Designator=C8 Old Footprint=0603P New Footprint=0805
+Change Component Footprint: Designator=C9 Old Footprint=0603P New Footprint=0805
+Change Component Footprint: Designator=C10 Old Footprint=0603P New Footprint=0805
+Change Component Footprint: Designator=C11 Old Footprint=0603P New Footprint=0805
+Change Component Footprint: Designator=C32 Old Footprint=0603P New Footprint=0805
+Change Component Footprint: Designator=C35 Old Footprint=0603P New Footprint=0805
+Change Component Footprint: Designator=C36 Old Footprint=0603P New Footprint=0805
+Change Component Footprint: Designator=C53 Old Footprint=0603P New Footprint=0805
+Change Component Comment : Designator=UART Old Comment=Comment New Comment=CON3
+Change Component Designator: OldDesignator=+17v NewDesignator=J2
+Change Component Designator: OldDesignator=-17v NewDesignator=J3
+Change Component Designator: OldDesignator=7905 NewDesignator=U_-5v
+Change Component Designator: OldDesignator=C32 NewDesignator=C7
+Change Component Designator: OldDesignator=C53 NewDesignator=C4
+Change Component Designator: OldDesignator=CT6 NewDesignator=CT3
+Change Component Designator: OldDesignator=D4 NewDesignator=D3
+Change Component Designator: OldDesignator=P17_2 NewDesignator=P3
+Change Component Designator: OldDesignator=R19 NewDesignator=R18
+Change Component Designator: OldDesignator=R21 NewDesignator=R12
+Change Component Designator: OldDesignator=R30 NewDesignator=R28
+Change Component Designator: OldDesignator=R55 NewDesignator=C37
+Change Component Designator: OldDesignator=R57 NewDesignator=R56
+Change Component Designator: OldDesignator=range NewDesignator=J20_2
+Change Component Designator: OldDesignator=select_ampfilication NewDesignator=R13
+Added Component: Designator=TFTLCD1(TFT3.5')
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=VCC3.3 Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=VCC3.3 Pin=C7-2
+Added Pin To Net: NetName=VDD33 Pin=C37-1
+Added Pin To Net: NetName=GND_D1 Pin=C37-2
+Added Pin To Net: NetName=GND_D1 Pin=CT3-1
+Added Pin To Net: NetName=NetCT3_2 Pin=CT3-2
+Added Pin To Net: NetName=NetCT3_3 Pin=CT3-3
+Added Pin To Net: NetName=NetCT3_4 Pin=CT3-4
+Added Pin To Net: NetName=GND Pin=D3-1
+Added Pin To Net: NetName=MOSI Pin=D3-2
+Added Pin To Net: NetName=NetCT3_3 Pin=J20_2-1
+Added Pin To Net: NetName=AD_D15 Pin=P3-33
+Added Pin To Net: NetName=REF_SELECT Pin=P3-34
+Added Pin To Net: NetName=GND_D1 Pin=P3-35
+Added Pin To Net: NetName=36J Pin=P3-36
+Added Pin To Net: NetName=VCC Pin=P3-37
+Added Pin To Net: NetName=VCC Pin=P3-38
+Added Pin To Net: NetName=GND_D1 Pin=P3-40
+Added Pin To Net: NetName=GND_D1 Pin=P3-41
+Added Pin To Net: NetName=42J Pin=P3-42
+Added Pin To Net: NetName=GND_D1 Pin=P3-43
+Added Pin To Net: NetName=44J Pin=P3-44
+Added Pin To Net: NetName=45J Pin=P3-45
+Added Pin To Net: NetName=GND_D1 Pin=P3-46
+Added Pin To Net: NetName=GND_D1 Pin=P3-47
+Added Pin To Net: NetName=VCC Pin=P3-48
+Added Pin To Net: NetName=NetC13_1 Pin=R12-2
+Added Pin To Net: NetName=NetCT3_2 Pin=R13-1
+Added Pin To Net: NetName=IN_IB Pin=R13-2
+Added Pin To Net: NetName=NetR18_1 Pin=R18-1
+Added Pin To Net: NetName=SN_OE Pin=R18-2
+Added Pin To Net: NetName=JTDO Pin=R26-4
+Added Pin To Net: NetName=JTRST Pin=R27-1
+Added Pin To Net: NetName=GND Pin=R28-1
+Added Pin To Net: NetName=GND_D1 Pin=R28-2
+Added Pin To Net: NetName=IN_IA Pin=R56-2
+Added Pin To Net: NetName=USART2_TX Pin=UART-1
+Added Pin To Net: NetName=USART2_RX Pin=UART-2
+Added Pin To Net: NetName=GND Pin=UART-3
+Added Pin To Net: NetName=EXT12 Pin=MCU-104
+Added Net: Name=EXT12
+Added Pin To Net: NetName=EXTG7 Pin=MCU-92
+Added Net: Name=EXTG7
+Added Member To Class: ClassName=T1 Member=Component TFTLCD1 TFT3.5'

@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=IN1_8 Pin=1_1-5
+Added Component: Designator=R57(0805)
+Added Component: Designator=R58(0805)
+Added Pin To Net: NetName=SING Pin=R57-1
+Added Pin To Net: NetName=IN1_8 Pin=R57-2
+Added Pin To Net: NetName=IN1_8 Pin=R58-2
+Added Pin To Net: NetName=IN_8 Pin=1_1-5
+Added Pin To Net: NetName=IN_8 Pin=R58-1
+Added Net: Name=IN_8
+Added Member To Class: ClassName=T2 Member=Component R57 470
+Added Member To Class: ClassName=T2 Member=Component R58 470

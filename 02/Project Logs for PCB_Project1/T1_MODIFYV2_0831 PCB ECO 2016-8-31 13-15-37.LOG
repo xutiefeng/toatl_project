@@ -1,0 +1,9 @@
+Added Component: Designator=D4(1206)
+Added Component: Designator=R51(0805)
+Added Pin To Net: NetName=GND Pin=D4-1
+Added Pin To Net: NetName=TSINT Pin=R51-1
+Added Pin To Net: NetName=TSINT1 Pin=D4-2
+Added Pin To Net: NetName=TSINT1 Pin=R51-2
+Added Net: Name=TSINT1
+Added Member To Class: ClassName=T1 Member=Component D4 3.3V
+Added Member To Class: ClassName=T1 Member=Component R51 470

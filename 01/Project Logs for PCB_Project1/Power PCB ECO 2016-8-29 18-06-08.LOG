@@ -1,0 +1,6 @@
+Added Component: Designator=Sing GND(CON2)
+Added Pin To Net: NetName=SGND Pin=Sing GND-1
+Added Pin To Net: NetName=SING Pin=Sing GND-2
+Added Net: Name=SING
+Added Member To Class: ClassName=Power Member=Component Sing GND CON2
+Added Room: Name=Power

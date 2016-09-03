@@ -1,0 +1,84 @@
+Removed Pin From Net: NetName=TSINT1 Pin=MCU-91
+Added Component: Designator=1(SOP16)
+Added Component: Designator=2(SOP16)
+Added Component: Designator=C18(0805)
+Added Component: Designator=C56(0805)
+Added Component: Designator=cd4046(SOP16)
+Added Component: Designator=R14(0805)
+Added Component: Designator=R35(0805)
+Added Component: Designator=R36(0805)
+Added Component: Designator=R37(0805)
+Added Pin To Net: NetName=GND_D1 Pin=1-1
+Added Pin To Net: NetName=GND_D1 Pin=1-4
+Added Pin To Net: NetName=GND Pin=1-8
+Added Pin To Net: NetName=GND_D1 Pin=1-9
+Added Pin To Net: NetName=GND_D1 Pin=1-10
+Added Pin To Net: NetName=VDD_D1 Pin=1-11
+Added Pin To Net: NetName=GND_D1 Pin=1-14
+Added Pin To Net: NetName=GND_D1 Pin=1-15
+Added Pin To Net: NetName=VCC Pin=1-16
+Added Pin To Net: NetName=GND_D1 Pin=2-1
+Added Pin To Net: NetName=GND_D1 Pin=2-4
+Added Pin To Net: NetName=GND Pin=2-8
+Added Pin To Net: NetName=GND_D1 Pin=2-9
+Added Pin To Net: NetName=GND_D1 Pin=2-10
+Added Pin To Net: NetName=VDD_D1 Pin=2-11
+Added Pin To Net: NetName=GND_D1 Pin=2-14
+Added Pin To Net: NetName=GND_D1 Pin=2-15
+Added Pin To Net: NetName=VCC Pin=2-16
+Added Pin To Net: NetName=GND_D1 Pin=C18-1
+Added Pin To Net: NetName=GND_D1 Pin=cd4046-5
+Added Pin To Net: NetName=GND Pin=cd4046-8
+Added Pin To Net: NetName=SING Pin=cd4046-14
+Added Pin To Net: NetName=VCC Pin=cd4046-16
+Added Pin To Net: NetName=EXTG7 Pin=Led3-2
+Added Pin To Net: NetName=TSINT1 Pin=MCU-104
+Added Pin To Net: NetName=EXTG7 Pin=R29-1
+Added Pin To Net: NetName=GND_D1 Pin=R37-1
+Added Pin To Net: NetName=EXTG5 Pin=Led1-2
+Added Pin To Net: NetName=EXTG5 Pin=MCU-90
+Added Pin To Net: NetName=EXTG5 Pin=R21-1
+Added Net: Name=EXTG5
+Added Pin To Net: NetName=EXTG6 Pin=Led2-2
+Added Pin To Net: NetName=EXTG6 Pin=MCU-91
+Added Pin To Net: NetName=EXTG6 Pin=R22-1
+Added Net: Name=EXTG6
+Added Pin To Net: NetName=INPUTCMP Pin=cd4046-3
+Added Net: Name=INPUTCMP
+Added Pin To Net: NetName=Net1_5 Pin=1-5
+Added Pin To Net: NetName=Net1_5 Pin=cd4046-4
+Added Net: Name=Net1_5
+Added Pin To Net: NetName=Net1_12 Pin=1-12
+Added Pin To Net: NetName=Net1_12 Pin=R14-1
+Added Net: Name=Net1_12
+Added Pin To Net: NetName=Net2_5 Pin=2-5
+Added Pin To Net: NetName=Net2_5 Pin=R14-2
+Added Net: Name=Net2_5
+Added Pin To Net: NetName=NetC18_2 Pin=C18-2
+Added Pin To Net: NetName=NetC18_2 Pin=R36-1
+Added Net: Name=NetC18_2
+Added Pin To Net: NetName=NetC56_1 Pin=C56-1
+Added Pin To Net: NetName=NetC56_1 Pin=cd4046-6
+Added Net: Name=NetC56_1
+Added Pin To Net: NetName=NetC56_2 Pin=C56-2
+Added Pin To Net: NetName=NetC56_2 Pin=cd4046-7
+Added Net: Name=NetC56_2
+Added Pin To Net: NetName=Netcd4046_9 Pin=cd4046-9
+Added Pin To Net: NetName=Netcd4046_9 Pin=R35-2
+Added Pin To Net: NetName=Netcd4046_9 Pin=R36-2
+Added Net: Name=Netcd4046_9
+Added Pin To Net: NetName=Netcd4046_11 Pin=cd4046-11
+Added Pin To Net: NetName=Netcd4046_11 Pin=R37-2
+Added Net: Name=Netcd4046_11
+Added Pin To Net: NetName=Netcd4046_13 Pin=cd4046-13
+Added Pin To Net: NetName=Netcd4046_13 Pin=R35-1
+Added Net: Name=Netcd4046_13
+Added Member To Class: ClassName=T2 Member=Component 1 74ALS193
+Added Member To Class: ClassName=T2 Member=Component 2 74ALS193
+Added Member To Class: ClassName=T2 Member=Component C18 C
+Added Member To Class: ClassName=T2 Member=Component C56 5000
+Added Member To Class: ClassName=T2 Member=Component cd4046 4046
+Added Member To Class: ClassName=T2 Member=Component R14 0K
+Added Member To Class: ClassName=T2 Member=Component R35 100K
+Added Member To Class: ClassName=T2 Member=Component R36 47K
+Added Member To Class: ClassName=T2 Member=Component R37 47K

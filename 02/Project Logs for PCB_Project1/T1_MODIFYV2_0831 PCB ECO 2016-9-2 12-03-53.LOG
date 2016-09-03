@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=GND_D1 Pin=D4-A
+Added Component: Designator=D5(ZD300)
+Added Member To Class: ClassName=T2 Member=Component D5 3.3V

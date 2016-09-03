@@ -1,0 +1,80 @@
+Bill of Material for T1_MODIFYV1_0520.PCBDOC
+On 2016/5/27 ÐÇÆÚÎå at ÉÏÎç 9:36:23
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+                     JTAG_20          1    JTAG                                              
+ 0.1                 0805            29    C13, C15, C17, C20, C22, C23 Capacitor            
+                                           C25, C26, C28, C29, C31, C37
+                                           C38, C39, C42, C44, C45, C46
+                                           C47, C48, C50, C52, C54, C60
+                                           C63, D56, R53, R54, R55
+ 0.1u                0805             2    C40, C41                     Capacitor            
+ 0.1uF               0805             1    C51                          Capacitor            
+ 0                   0805             4    R20, R28, R56, R57                                
+ 0K                  0805             3    R13, R14                     Resistor             
+                                           select_ampfilication
+ 100                 0805             2    R12, R21                                          
+ 100u/50V            C-RVE            1    C49                          Polarized Capacitor (Radial) 
+ 100uH               L1212            1    L12                                               
+ 10K                 0805             5    R3, R4, R5, R6, R7                                
+ 10u                 0805             2    C14, C16                     Capacitor            
+ 10u                 c-1206           2    C19, C21                     Capacitor            
+ 15K                 0805             1    R80                          Resistor             
+ 1K                  0805             2    R16, R23                                          
+ 1N4148              DO-41            2    D8, D9                       1 Amp General Purpose Rectifier 
+ 1u                  0805             2    C33, C34                     Capacitor            
+ 220U                CD10             2    C24, C43                     Capacitor            
+ 220U                CD4              2    C27, C30                     Capacitor            
+ 220u                C-RVE            1    C18                          Capacitor            
+ 2k                  0805             1    R25                                               
+ 3.3V                DO-36            2    D3, D4                       Schottky Diode       
+ 33                  8P4R_0603        4    R46, R47, R48, R49                                
+ 3k                  0805             1    R75                                               
+ 431                 29-04            1    U13                          Programmable Precision Reference 
+ 470                 0805             4    R17, R18, R19, R50                                
+ 470                 8P4R_0603        4    R15, R24, R26, R27                                
+ 47K                 0805             2    R69, R71                     Resistor             
+ 50K                 VR5              1    W1                           Potentiometer        
+ 74HC573             SO20-7.5         2    U11, U12                                          
+ 74HCT573            M20D             2    U19_573H, U20_573L                                
+ 7905                TO220H           1    7905                                              
+ 7915                TO220H           1    U15v                                              
+ ac                  HDR1X2           1    J20_3                        Connector            
+ ac                  RESVR            5    J20_2, os_0, os_1, os_2      Connector            
+                                           range
+ AD7545              DIP20            1    U9                                                
+ C                   0603P           16    C1, C2, C3, C4, C5, C6, C7                        
+                                           C8, C9, C10, C11, C12, C32
+                                           C35, C36, C53
+ Comment             CON3             1    UART                                              
+ Comment             DC10B            1    power                                             
+ Comment             IDC34S           1    Designator4                                       
+ CT09                PCBComponent_1    1    CT2                                               
+ CT09                tra1             1    CT3                                               
+ DDL_BV              HDR1X2           1    J20_1                        Connector            
+ k TX                HDR1X2           3    +17v, -17v, J0               Header, 2-Pin        
+ LD1086D2M33         D2PAK/A          1    U_5v                                              
+ LD1086D2M33         TO220F           1    U_15v                                             
+ LM1117-33           SOT223           1    U117_3.3                                          
+ LM324               SOP-14           1    U10                          Quadruple Operational Amplifier 
+ OP07                DIP8             1    U3                           Very Low Offset Single Bipolar Operational Amplifier 
+ OP07CP              DIP8             1    U64                          Very Low Offset Single Bipolar Operational Amplifier 
+ Part-A              PARTA            1    P1                           Header, 16-Pin       
+ Part-B              PARTB            1    P2                           Header, 16-Pin       
+ Part-C              Part-C          27    P3, P5, P6, P7, P8, P8_1, P9 Header, 16-Pin       
+                                           P9_1, P10, P10_1, P11, P11_1
+                                           P12, P12_1, P13, P13_1, P14
+                                           P14_1, P14_1_1, P16, P16_1
+                                           P16_1_1, P16_2, P17, P17_1
+                                           P17_1_1, P17_2
+ Part-D              Part-D           1    P4                           Header, 16-Pin       
+ PGA204              DIP16            1    U7                                                
+ R                   0805             1    R2                                                
+ RESVR               RESVR            1    R70                          Potentiometer        
+ SED1335             LCD_CM           1    P15                                               
+ SN74ALVC164245      SSOP48           1    U22                                               
+ STM32F103ZET6       LQFP144          1    MCU                          STM32F103ZET6        
+ TO_7606             IDC20_1          1    JP1                          Header, 10-Pin, Dual row 
+ X9C503              SOP127P600X175-8N    1    U18                                               
+ XTAL                XTAL_US          1    Y1                           Crystal Oscillator   

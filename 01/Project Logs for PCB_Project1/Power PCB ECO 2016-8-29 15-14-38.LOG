@@ -1,0 +1,14 @@
+Change Component Footprint: Designator=j1 Old Footprint=CON4/0.4 New Footprint=CON5/0.4
+Added Component: Designator=j3(CON4)
+Added Component: Designator=j4(CON4)
+Added Pin To Net: NetName=+15V Pin=j1-5
+Added Pin To Net: NetName=SGND Pin=j3-1
+Added Pin To Net: NetName=SGND Pin=j3-2
+Added Pin To Net: NetName=GND Pin=j3-3
+Added Pin To Net: NetName=GND Pin=j3-4
+Added Pin To Net: NetName=SGND Pin=j4-1
+Added Pin To Net: NetName=SGND Pin=j4-2
+Added Pin To Net: NetName=GND Pin=j4-3
+Added Pin To Net: NetName=GND Pin=j4-4
+Added Member To Class: ClassName=Power Member=Component j3 CON4
+Added Member To Class: ClassName=Power Member=Component j4 CON4

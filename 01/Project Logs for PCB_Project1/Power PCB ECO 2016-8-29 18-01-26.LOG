@@ -1,0 +1,16 @@
+Change Component Designator: OldDesignator=U117_3.3 NewDesignator=LM1173.3_1
+Added Component: Designator=+5v GND(CON2/0.4)
+Added Component: Designator=+5v SGND(CON2/0.4)
+Added Component: Designator=+15V GND- 15V(CON4/0.4)
+Added Pin To Net: NetName=GND Pin=+5v GND-1
+Added Pin To Net: NetName=SGND Pin=+5v SGND-1
+Added Pin To Net: NetName=-15V Pin=+15V GND- 15V-1
+Added Pin To Net: NetName=SGND Pin=+15V GND- 15V-2
+Added Pin To Net: NetName=SGND Pin=+15V GND- 15V-3
+Added Pin To Net: NetName=+15V Pin=+15V GND- 15V-4
+Added Pin To Net: NetName=VDD_5V Pin=+5v GND-2
+Added Pin To Net: NetName=VDD_5V Pin=+5v SGND-2
+Added Net: Name=VDD_5V
+Added Member To Class: ClassName=Power Member=Component +5v GND CON2
+Added Member To Class: ClassName=Power Member=Component +5v SGND CON2
+Added Member To Class: ClassName=Power Member=Component +15V GND- 15V CON4

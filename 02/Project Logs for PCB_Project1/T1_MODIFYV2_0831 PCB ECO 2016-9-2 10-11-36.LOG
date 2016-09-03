@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=CTR_4 Pin=MCU-101
+Added Pin To Net: NetName=CTR_4 Pin=R48-2
+Added Net: Name=CTR_4
+Added Pin To Net: NetName=CTR_5 Pin=MCU-103
+Added Pin To Net: NetName=CTR_5 Pin=R48-3
+Added Net: Name=CTR_5

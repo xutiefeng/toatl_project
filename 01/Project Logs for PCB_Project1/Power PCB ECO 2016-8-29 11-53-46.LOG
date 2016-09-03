@@ -1,0 +1,53 @@
+Added Component: Designator=C18(C-RVE)
+Added Component: Designator=C19(c-1206)
+Added Component: Designator=C20(0805)
+Added Component: Designator=C21(c-1206)
+Added Component: Designator=C22(0805)
+Added Component: Designator=C26(0805)
+Added Component: Designator=C27(CD4)
+Added Component: Designator=C28(0805)
+Added Component: Designator=C29(0805)
+Added Component: Designator=C30(CD4)
+Added Component: Designator=C31(0805)
+Added Component: Designator=C42(0805)
+Added Component: Designator=C43(CD10)
+Added Component: Designator=C44(0805)
+Added Component: Designator=L12(L1212)
+Added Component: Designator=U15v(TO220H)
+Added Component: Designator=U_5v(D2PAK/A)
+Added Component: Designator=U_-5v(TO220H)
+Added Net: Name=+15V
+Added Net: Name=-15V
+Added Pin To Net: NetName=-17V Pin=C26-2
+Added Pin To Net: NetName=-17V Pin=C29-1
+Added Pin To Net: NetName=-17V Pin=U15v-2
+Added Pin To Net: NetName=-17V Pin=U_-5v-2
+Added Net: Name=-17V
+Added Pin To Net: NetName=GND Pin=C18-2
+Added Pin To Net: NetName=GND Pin=C19-2
+Added Pin To Net: NetName=GND Pin=C20-2
+Added Pin To Net: NetName=GND Pin=C21-2
+Added Pin To Net: NetName=GND Pin=C22-2
+Added Pin To Net: NetName=GND Pin=C42-2
+Added Pin To Net: NetName=GND Pin=C43-2
+Added Pin To Net: NetName=GND Pin=C44-2
+Added Pin To Net: NetName=GND Pin=U_5v-1
+Added Net: Name=GND
+Added Pin To Net: NetName=SGND Pin=C26-1
+Added Pin To Net: NetName=SGND Pin=C27-1
+Added Pin To Net: NetName=SGND Pin=C28-1
+Added Pin To Net: NetName=SGND Pin=C29-2
+Added Pin To Net: NetName=SGND Pin=C30-1
+Added Pin To Net: NetName=SGND Pin=C31-2
+Added Pin To Net: NetName=SGND Pin=U15v-1
+Added Pin To Net: NetName=SGND Pin=U_-5v-1
+Added Net: Name=SGND
+Added Pin To Net: NetName=VCC_IN Pin=C42-1
+Added Pin To Net: NetName=VCC_IN Pin=U_5v-3
+Added Net: Name=VCC_IN
+
+Added Net: Name=VDD_-15
+Added Pin To Net: NetName=VDD_D1 Pin=L12-2
+Added Net: Name=VDD_D1
+Added Class: Name=Power
+Added Room: Name=Power

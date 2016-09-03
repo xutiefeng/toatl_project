@@ -1,0 +1,7 @@
+Added Component: Designator=CT7(TRA1)
+Added Pin To Net: NetName=SGND Pin=CT7-1
+Added Pin To Net: NetName=SGND Pin=CT7-1
+Added Pin To Net: NetName=NetBu Han_1 Pin=CT7-2
+Added Pin To Net: NetName=NetBu Han_1 Pin=CT7-2
+Added Member To Class: ClassName=Power Member=Component CT7 CT09
+Added Room: Name=Power

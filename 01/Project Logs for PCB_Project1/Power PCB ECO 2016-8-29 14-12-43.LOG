@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=-17V Pin=C29-1
+Removed Pin From Net: NetName=SGND Pin=C29-2
+Removed Pin From Net: NetName=SGND Pin=C30-1
+Removed Pin From Net: NetName=SGND Pin=C31-2
+Removed Pin From Net: NetName=SGND Pin=U15v-1
+Removed Pin From Net: NetName=-17V Pin=U15v-2
+Removed Member From Class: ClassName=Power Member=C29
+Removed Member From Class: ClassName=Power Member=C30
+Removed Member From Class: ClassName=Power Member=C31
+Removed Member From Class: ClassName=Power Member=U15v

@@ -1,0 +1,10 @@
+Added Component: Designator=LED(LED_Ìù_1)
+Added Component: Designator=R_2(0805)
+Added Pin To Net: NetName=GND Pin=LED-2
+Added Pin To Net: NetName=VDD33 Pin=R_2-1
+Added Pin To Net: NetName=NetLED_1 Pin=LED-1
+Added Pin To Net: NetName=NetLED_1 Pin=R_2-2
+Added Net: Name=NetLED_1
+Added Member To Class: ClassName=Power Member=Component LED 0K
+Added Member To Class: ClassName=Power Member=Component R_2 0K
+Added Room: Name=Power

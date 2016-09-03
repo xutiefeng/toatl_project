@@ -1,0 +1,13 @@
+Added Component: Designator=3.3(CON4)
+Added Component: Designator=GND(CON4)
+Added Pin To Net: NetName=VDD33 Pin=3.3-1
+Added Pin To Net: NetName=VDD33 Pin=3.3-2
+Added Pin To Net: NetName=VDD33 Pin=3.3-3
+Added Pin To Net: NetName=VDD33 Pin=3.3-4
+Added Pin To Net: NetName=GND Pin=GND-1
+Added Pin To Net: NetName=GND Pin=GND-2
+Added Pin To Net: NetName=GND Pin=GND-3
+Added Pin To Net: NetName=GND Pin=GND-4
+Added Member To Class: ClassName=Power Member=Component 3.3 CON4
+Added Member To Class: ClassName=Power Member=Component GND CON4
+Added Room: Name=Power

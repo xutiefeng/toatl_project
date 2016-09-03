@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=VDD_5V Pin=L12-1
+Removed Member From Class: ClassName=Power Member=L12
+Added Component: Designator=j1(CON4/0.4)
+Added Component: Designator=j2(CON5/0.4)
+Added Pin To Net: NetName=VDD33 Pin=j1-3
+Added Pin To Net: NetName=-15V Pin=j1-4
+Added Pin To Net: NetName=VDD33 Pin=j2-3
+Added Pin To Net: NetName=-15V Pin=j2-4
+Added Pin To Net: NetName=+15V Pin=j2-5
+Added Pin To Net: NetName=GND Pin=power1-1
+Added Pin To Net: NetName=+5V Pin=j1-2
+Added Pin To Net: NetName=+5V Pin=j2-2
+Added Pin To Net: NetName=+5V Pin=power1-2
+Added Net: Name=+5V
+Added Pin To Net: NetName=-5V Pin=j1-1
+Added Pin To Net: NetName=-5V Pin=j2-1
+Added Pin To Net: NetName=-5V Pin=power1-0
+Added Net: Name=-5V
+Added Member To Class: ClassName=Power Member=Component j1 CON5
+Added Member To Class: ClassName=Power Member=Component j2 CON5
+Added Room: Name=Power

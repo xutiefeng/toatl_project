@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=GND Pin=LED1-2
+Added Pin To Net: NetName=SGND Pin=LED1-2
+Added Room: Name=Power

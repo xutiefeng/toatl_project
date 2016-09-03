@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=D5 Old Footprint=ZD300 New Footprint=1504D
+Added Component: Designator=R53(0805)
+Added Pin To Net: NetName=GND Pin=D5-1
+Added Pin To Net: NetName=AD_BUZY Pin=R53-2
+Added Pin To Net: NetName=A10 Pin=D5-2
+Added Pin To Net: NetName=A10 Pin=R53-1
+Added Net: Name=A10
+Added Member To Class: ClassName=T2 Member=Component R53 470

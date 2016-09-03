@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=VDD33 Pin=C18-1
+Removed Pin From Net: NetName=VDD33 Pin=C19-1
+Removed Pin From Net: NetName=VDD33 Pin=C20-1
+Removed Pin From Net: NetName=SGND Pin=C26-1
+Removed Pin From Net: NetName=SGND Pin=C27-1
+Removed Pin From Net: NetName=SGND Pin=C28-1
+Removed Pin From Net: NetName=VDD33 Pin=L12-1
+Removed Pin From Net: NetName=SGND Pin=U_-5v-1
+Removed Member From Class: ClassName=Power Member=C26
+Removed Member From Class: ClassName=Power Member=C27
+Removed Member From Class: ClassName=Power Member=C28
+Removed Member From Class: ClassName=Power Member=U_-5v
+Added Component: Designator=U117_3.3(SOT223)
+Added Pin To Net: NetName=VCC_IN Pin=C18-1
+Added Pin To Net: NetName=VCC_IN Pin=C19-1
+Added Pin To Net: NetName=VCC_IN Pin=C20-1
+Added Pin To Net: NetName=VCC_IN Pin=L12-1
+Added Pin To Net: NetName=GND Pin=U117_3.3-1
+Added Pin To Net: NetName=VDD33 Pin=U117_3.3-2
+Added Pin To Net: NetName=VCC_IN Pin=U117_3.3-3
+Added Pin To Net: NetName=VDD33 Pin=U117_3.3-4
+Added Member To Class: ClassName=Power Member=Component U117_3.3 LM1117-33
+Added Room: Name=Power

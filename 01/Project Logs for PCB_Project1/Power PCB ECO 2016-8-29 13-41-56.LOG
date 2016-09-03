@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=-15V Pin=power-0
+Added Pin To Net: NetName=SGND Pin=power-1
+Added Pin To Net: NetName=+15V Pin=power-2
+Added Room: Name=Power

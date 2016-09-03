@@ -1,0 +1,9 @@
+Added Component: Designator=LED?(LED_Ìù_1)
+Added Component: Designator=R76(0805)
+Added Pin To Net: NetName=NetLED?_A Pin=R76-2
+Added Net: Name=NetLED?_A
+Added Pin To Net: NetName=NetMCU_136 Pin=MCU-136
+Added Pin To Net: NetName=NetMCU_136 Pin=R76-1
+Added Net: Name=NetMCU_136
+Added Member To Class: ClassName=T2 Member=Component LED? LED
+Added Member To Class: ClassName=T2 Member=Component R76 47K

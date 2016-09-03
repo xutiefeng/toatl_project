@@ -1,0 +1,42 @@
+Added Component: Designator=1_1(CON8)
+Added Component: Designator=1_2(CON8)
+Added Component: Designator=1_3(CON8)
+Added Pin To Net: NetName=GND Pin=1_1-1
+Added Pin To Net: NetName=+15V Pin=1_1-2
+Added Pin To Net: NetName=-15V Pin=1_1-3
+Added Pin To Net: NetName=GND_D1 Pin=1_1-8
+Added Pin To Net: NetName=GND Pin=1_2-1
+Added Pin To Net: NetName=+15V Pin=1_2-2
+Added Pin To Net: NetName=-15V Pin=1_2-3
+Added Pin To Net: NetName=GND_D1 Pin=1_2-8
+Added Pin To Net: NetName=GND Pin=1_3-1
+Added Pin To Net: NetName=+15V Pin=1_3-2
+Added Pin To Net: NetName=-15V Pin=1_3-3
+Added Pin To Net: NetName=GND_D1 Pin=1_3-8
+Added Pin To Net: NetName=CTR1_3 Pin=1_2-6
+Added Net: Name=CTR1_3
+Added Pin To Net: NetName=CTR1_4 Pin=1_2-7
+Added Net: Name=CTR1_4
+Added Pin To Net: NetName=CTR1_5 Pin=1_3-6
+Added Net: Name=CTR1_5
+Added Pin To Net: NetName=CTR1_6 Pin=1_3-7
+Added Net: Name=CTR1_6
+Added Pin To Net: NetName=CTR1_7 Pin=1_1-6
+Added Net: Name=CTR1_7
+Added Pin To Net: NetName=CTR1_8 Pin=1_1-7
+Added Net: Name=CTR1_8
+Added Pin To Net: NetName=IN1_3 Pin=1_2-4
+Added Net: Name=IN1_3
+Added Pin To Net: NetName=IN1_4 Pin=1_2-5
+Added Net: Name=IN1_4
+Added Pin To Net: NetName=IN1_5 Pin=1_3-4
+Added Net: Name=IN1_5
+Added Pin To Net: NetName=IN1_6 Pin=1_3-5
+Added Net: Name=IN1_6
+Added Pin To Net: NetName=IN1_7 Pin=1_1-4
+Added Net: Name=IN1_7
+Added Pin To Net: NetName=IN1_8 Pin=1_1-5
+Added Net: Name=IN1_8
+Added Member To Class: ClassName=T2 Member=Component 1_1 CON8
+Added Member To Class: ClassName=T2 Member=Component 1_2 CON8
+Added Member To Class: ClassName=T2 Member=Component 1_3 CON8

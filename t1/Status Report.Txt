@@ -1,0 +1,11 @@
+Output: Simple BOM
+Type  : SimpleBOM
+From  : Project [Free Documents]
+   Generated File[T1_MODIFYV1_0520.BOM]
+   Generated File[T1_MODIFYV1_0520.CSV]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At ÉÏÎç 9:36:24 On 2016/5/27 ĞÇÆÚÎå

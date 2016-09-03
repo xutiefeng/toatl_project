@@ -1,0 +1,62 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=ProjectFileName~Free Documents|ReportField=ProjectFullPath~Free Documents|ReportField=Title~Bill of Materials For Schematic Document [T1.SCHDOC]|ReportField=TotalQuantity~119|ReportField=ReportTime~下午 5:30:43|ReportField=ReportDate~2016/5/26 星期四|ReportField=ReportDateTime~2016/5/26 星期四 下午 5:30:43|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~ReportComponents|ReportField=GeneratorDescription~Component Reports|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2016/5/26 星期四|ReportField=CurrentTime~下午 5:29:37|ReportField=Date~|ReportField=DocumentFullPathAndName~E:\宁波三维\原理图及pcb\t1\T1.SCHDOC|ReportField=DocumentName~T1.SCHDOC|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2016/5/26 星期四|ReportField=Organization~|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~T1.SCHDOC|ReportField=DataSourceFullPath~E:\宁波三维\原理图及pcb\t1\T1.SCHDOC
+C||C1, C2, C3, C4, C5, C6, C7, C8, C9, C10, C11, C12, C35, C36|0603P|C|14
+0.1|Capacitor|C13, C15, C17, C20, C22, C23, C25, C26, C28, C29, C31, C37, C38, C39, C42, C44, C50, C60, C63|0805|CAP, Cap_5|19
+10u|Capacitor|C14, C16|0805|CAP, Cap_5|2
+220u|Capacitor|C18|C-RVE|CAPACITOR POL|1
+10u|Capacitor|C19, C21|c-1206|Cap2|2
+220U|Capacitor|C24, C43|CD10|CAPACITOR POL|2
+220U|Capacitor|C27, C30|CD4|CAPACITOR POL|2
+1u|Capacitor|C33, C34|0805|Cap|2
+0.1u|Capacitor|C40, C41|0805|CAP|2
+100u/50V|Polarized Capacitor (Radial)|C49|C-RVE|Cap Pol1|1
+0.1uF|Capacitor|C51|0805|CAP|1
+CT09||CT2|PCBComponent_1|CT09|1
+CT09||CT3|tra1|CT09|1
+3.3V|Schottky Diode|D3|DO-36|DIODE SCHOTTKY|1
+1N4148|1 Amp General Purpose Rectifier|D8, D9|DO-41|Diode 1N4007|2
+k TX|Header, 2-Pin|J0, J2, J3|HDR1X2|Header 2|3
+DDL_BV|Connector|J20_1|HDR1X2|CON2|1
+ac|Connector|J20_2|RESVR|CON2|1
+ac|Connector|J20_3|HDR1X2|CON2|1
+TO_7606|Header, 10-Pin, Dual row|JP1|IDC20_1|Header 10X2|1
+||JTAG|JTAG_20|JTAG|1
+100uH||L12|L1212|INDUCTOR2|1
+STM32F103ZET6|STM32F103ZET6|MCU|LQFP144|STM32F103ZET6|1
+Part-A|Header, 16-Pin|P1|PARTA|Header 16|1
+Part-B|Header, 16-Pin|P2|PARTB|Header 16|1
+Part-C|Header, 16-Pin|P3|Part-C|Header 16|1
+Part-D|Header, 16-Pin|P4|Part-D|Header 16|1
+SED1335||P15|LCD_CM|26PIN|1
+R||R2|0805|R|1
+10K||R3, R4, R5, R6, R7|0805|R|5
+100||R12|0805|RES|1
+0K|Resistor|R13|0805|Res2|1
+470||R15, R24, R26, R27|8P4R_0603|RP4R|4
+1K||R16, R23|0805|RES, RES2|2
+470|Resistor|R17, R18, R50|0805|Res, Res2|3
+0||R20, R28, R56|0805|Res, RES2|3
+2k||R25|0805|RES|1
+33||R46, R47, R48, R49|8P4R_0603|RP4R|4
+47K|Resistor|R69, R71|0805|Res2|2
+RESVR|Potentiometer|R70|RESVR|RESVR|1
+3k||R75|0805|RES|1
+15K|Resistor|R80|0805|Res2|1
+TFT3.5'|3.5寸,带触摸,分辨率:480*320|TFTLCD1|TFT3.5'|TFT3.5'|1
+OP07|Very Low Offset Single Bipolar Operational Amplifier|U3|DIP8|OP07CN|1
+PGA204||U7|DIP16|PGA205|1
+AD7545||U9|DIP20|AD7545|1
+LM324|Quadruple Operational Amplifier|U10|SOP-14|LM324AJ|1
+74HC573||U11, U12|SO20-7.5|74HC573|2
+431|Programmable Precision Reference|U13|29-04|TL431ACLP|1
+7915||U15v|TO220H|VOLTREG|1
+X9C503||U18|SOP127P600X175-8N|Component_1|1
+74HCT573||U19_573H, U20_573L|M20D|74HC573|2
+SN74ALVC164245||U22|SSOP48|IC_SN74ALVC164245|1
+OP07CP|Very Low Offset Single Bipolar Operational Amplifier|U64|DIP8|OP07CN|1
+LM1117-33||U117_3.3|SOT223|LM1117|1
+CON3|Connector|uart|CON3|CON3|1
+LD1086D2M33||U_5v|D2PAK/A|LM1086|1
+LD1086D2M33||U_15v|TO220F|LM1086|1
+7905||U_-5v|TO220H|VOLTREG|1
+50K|Potentiometer|W1|VR5|RPot|1
+XTAL|Crystal Oscillator|Y1|XTAL_US|XTAL|1

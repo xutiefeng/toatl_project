@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=VDD_D1 Pin=usb2-1
+Removed Pin From Net: NetName=GND Pin=usb2-5
+Removed Member From Class: ClassName=T2 Member=usb2

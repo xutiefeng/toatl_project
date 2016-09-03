@@ -1,0 +1,36 @@
+Change Component Designator: OldDesignator=U11 NewDesignator=74H573_2
+Change Component Designator: OldDesignator=U12 NewDesignator=74H573_1
+Change Component Designator: OldDesignator=U19_573H NewDesignator=74H573_3
+Change Component Designator: OldDesignator=U20_573L NewDesignator=74H573_4
+Change Net Name : Old Net Name=NetR15_5 New Net Name=Net74H573_2_9
+Change Net Name : Old Net Name=NetR15_6 New Net Name=Net74H573_2_8
+Change Net Name : Old Net Name=NetR15_7 New Net Name=Net74H573_2_7
+Change Net Name : Old Net Name=NetR15_8 New Net Name=Net74H573_2_6
+Change Net Name : Old Net Name=NetR24_5 New Net Name=Net74H573_2_5
+Change Net Name : Old Net Name=NetR24_6 New Net Name=Net74H573_2_4
+Change Net Name : Old Net Name=NetR24_7 New Net Name=Net74H573_2_3
+Change Net Name : Old Net Name=NetR24_8 New Net Name=Net74H573_2_2
+Change Net Name : Old Net Name=NetR26_5 New Net Name=Net74H573_1_5
+Change Net Name : Old Net Name=NetR26_6 New Net Name=Net74H573_1_4
+Change Net Name : Old Net Name=NetR26_7 New Net Name=Net74H573_1_3
+Change Net Name : Old Net Name=NetR26_8 New Net Name=Net74H573_1_2
+Change Net Name : Old Net Name=NetR27_5 New Net Name=Net74H573_1_9
+Change Net Name : Old Net Name=NetR27_6 New Net Name=Net74H573_1_8
+Change Net Name : Old Net Name=NetR27_7 New Net Name=Net74H573_1_7
+Change Net Name : Old Net Name=NetR27_8 New Net Name=Net74H573_1_6
+Change Net Name : Old Net Name=NetR46_5 New Net Name=Net74H573_4_5
+Change Net Name : Old Net Name=NetR46_6 New Net Name=Net74H573_4_4
+Change Net Name : Old Net Name=NetR46_7 New Net Name=Net74H573_4_3
+Change Net Name : Old Net Name=NetR46_8 New Net Name=Net74H573_4_2
+Change Net Name : Old Net Name=NetR47_5 New Net Name=Net74H573_4_9
+Change Net Name : Old Net Name=NetR47_6 New Net Name=Net74H573_4_8
+Change Net Name : Old Net Name=NetR47_7 New Net Name=Net74H573_4_7
+Change Net Name : Old Net Name=NetR47_8 New Net Name=Net74H573_4_6
+Change Net Name : Old Net Name=NetR48_5 New Net Name=Net74H573_3_5
+Change Net Name : Old Net Name=NetR48_6 New Net Name=Net74H573_3_4
+Change Net Name : Old Net Name=NetR48_7 New Net Name=Net74H573_3_3
+Change Net Name : Old Net Name=NetR48_8 New Net Name=Net74H573_3_2
+Change Net Name : Old Net Name=NetR49_5 New Net Name=Net74H573_3_9
+Change Net Name : Old Net Name=NetR49_6 New Net Name=Net74H573_3_8
+Change Net Name : Old Net Name=NetR49_7 New Net Name=Net74H573_3_7
+Change Net Name : Old Net Name=NetR49_8 New Net Name=Net74H573_3_6

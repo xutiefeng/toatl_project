@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=VDD -5V Pin=C43_1-1
+Removed Pin From Net: NetName=-15V Pin=C43_1-2
+Removed Pin From Net: NetName=-15V Pin=C44_1-2
+Removed Member From Class: ClassName=Power Member=C43_1
+Added Pin To Net: NetName=GND Pin=C44_1-2
+Added Room: Name=Power

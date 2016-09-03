@@ -1,0 +1,21 @@
+Change Component Designator: OldDesignator=U_5v NewDesignator=U 5v
+Added Component: Designator=C42_1(0805)
+Added Component: Designator=C43_1(CD4)
+Added Component: Designator=C44_1(0805)
+Added Component: Designator=U -5v(D2PAK/A)
+Added Pin To Net: NetName=GND Pin=C42_1-1
+Added Pin To Net: NetName=-15V Pin=C42_1-2
+Added Pin To Net: NetName=-15V Pin=C43_1-2
+Added Pin To Net: NetName=-15V Pin=C44_1-2
+Added Pin To Net: NetName=GND Pin=U -5v-1
+Added Pin To Net: NetName=-15V Pin=U -5v-2
+Added Pin To Net: NetName=-15V Pin=U -5v-2
+Added Pin To Net: NetName=VDD -5V Pin=C43_1-1
+Added Pin To Net: NetName=VDD -5V Pin=C44_1-1
+Added Pin To Net: NetName=VDD -5V Pin=U -5v-3
+Added Net: Name=VDD -5V
+Added Member To Class: ClassName=Power Member=Component C42_1 0.1
+Added Member To Class: ClassName=Power Member=Component C43_1 220U
+Added Member To Class: ClassName=Power Member=Component C44_1 0.1
+Added Member To Class: ClassName=Power Member=Component U -5v LD1086D2M33
+Added Room: Name=Power

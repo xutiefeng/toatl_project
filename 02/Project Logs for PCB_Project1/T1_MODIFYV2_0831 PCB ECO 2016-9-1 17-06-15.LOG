@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=GND_D1 Pin=C49-1
+Removed Pin From Net: NetName=GND_D1 Pin=C50-1
+Removed Pin From Net: NetName=VO Pin=R80-2
+Removed Pin From Net: NetName=VO Pin=U10-1
+Removed Pin From Net: NetName=VDD_D1 Pin=U10-4
+Removed Pin From Net: NetName=-23V Pin=U10-11
+Removed Member From Class: ClassName=T2 Member=U10
+Added Component: Designator=*(SOP-14)
+Added Component: Designator=D17(1504D)
+Added Component: Designator=R72(0805)
+Added Pin To Net: NetName=VO Pin=*-1
+Added Pin To Net: NetName=VDD_D1 Pin=*-4
+Added Pin To Net: NetName=-23V Pin=*-11
+Added Pin To Net: NetName=SING Pin=*-12
+Added Pin To Net: NetName=GND Pin=*-13
+Added Pin To Net: NetName=GND Pin=C49-1
+Added Pin To Net: NetName=GND Pin=C50-1
+Added Pin To Net: NetName=VO Pin=R80-1
+Added Pin To Net: NetName=EXTG8 Pin=D17-2
+Added Pin To Net: NetName=EXTG8 Pin=MCU-93
+Added Net: Name=EXTG8
+Added Pin To Net: NetName=Net*_2 Pin=*-2
+Added Pin To Net: NetName=Net*_2 Pin=R80-2
+Added Net: Name=Net*_2
+Added Pin To Net: NetName=Net*_3 Pin=*-3
+Added Pin To Net: NetName=Net*_3 Pin=R70-2
+Added Pin To Net: NetName=Net*_3 Pin=R71-1
+Added Net: Name=Net*_3
+Added Pin To Net: NetName=Net*_14 Pin=*-14
+Added Pin To Net: NetName=Net*_14 Pin=R72-1
+Added Net: Name=Net*_14
+Added Pin To Net: NetName=NetD17_1 Pin=D17-1
+Added Pin To Net: NetName=NetD17_1 Pin=R72-2
+Added Net: Name=NetD17_1
+Added Member To Class: ClassName=T2 Member=Component * LM324
+Added Member To Class: ClassName=T2 Member=Component D17 1N4148
+Added Member To Class: ClassName=T2 Member=Component R72 47K

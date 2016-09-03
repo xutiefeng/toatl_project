@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=+15V GND- 15V NewDesignator=+15V GND -15V
+Change Component Designator: OldDesignator=U 5v NewDesignator=LM7805
+Added Component: Designator=power1(power)
+Added Pin To Net: NetName=-5V Pin=power1-0
+Added Pin To Net: NetName=GND Pin=power1-1
+Added Pin To Net: NetName=+5V Pin=power1-2
+Added Member To Class: ClassName=Power Member=Component power1 Power
+Added Room: Name=Power
